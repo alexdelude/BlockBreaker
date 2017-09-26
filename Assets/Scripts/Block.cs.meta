@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 03ec93d7d09457b4f9e9ac0164121a0d
+timeCreated: 1506041715
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - crack: {fileID: 8300000, guid: b62c27f31ca2ae846b33be778f618e1b, type: 3}
+  - smoke: {fileID: 1872984208239640, guid: e5ea851eb94698b4fa5628528755de06, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
